@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to parse data on New York's Citibike bike rental system in order to find out if a similar such plan would be feasable in Des Moines, Iowa.
+The purpose of this analysis is to parse data on New York's Citibike bike rental system in order to find out if a similar plan would be feasable in Des Moines, Iowa.
 
 ## Results
 
